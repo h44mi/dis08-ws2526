@@ -181,9 +181,11 @@ e.g.
 
 ## Platform/Tool Specific: GitHub
 ### Task lists
+* Task lists are automatically interactive in issues, requests and comments (not in README) 
 
 ### Mentioning users (@username)
-- Send a notification to the user 
+- Send a notification to the user
+
 ### Automatic linking of issues/PRs
 
 * e.g. #number 
