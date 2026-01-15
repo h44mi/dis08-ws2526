@@ -134,7 +134,21 @@ e.g.
 |---:|---|
 |Lisa|28|
 
-## 
+## Dividers & Layout
+* Dividers between sections to seperate topics 
+### Horizontal rules
+e.g. 
+
+---
+***
+___
+### Line breaks
+- Moves text without creating a new paragraph
+
+e.g.  
+Hello 1   
+Hello 2  
+--> Two spaces at the end + ENTER
 
 
  
