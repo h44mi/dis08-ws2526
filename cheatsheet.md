@@ -119,7 +119,23 @@ e.g.
 > **Blockquotes** _with_ formatting 
 
 ## Tables 
-### Checkboxes 
+* Data in rows and columns
+### Basic tables
+e.g. 
+|Name|Age|
+|----|---|
+|Lisa|28|
+
+### Alignment
+* Control horizontal alignment of table columns
+
+e.g. 
+|Name|Age|
+|---:|---|
+|Lisa|28|
+
+## 
+
 
  
 
