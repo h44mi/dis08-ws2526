@@ -134,6 +134,23 @@ e.g.
 |---:|---|
 |Lisa|28|
 
+## Task Lists
+### Checkboxes
+- Extended Markdown feature that let's you track tasks
+
+e.g.  
+- [ ] Task 1
+- [x] Task 2
+- [ ] Task 3
+
+or  
+
+* [ ] Task 1
+* [x] Task 2
+* [ ] Task 3
+
+
+
 ## Dividers & Layout
 * Dividers between sections to seperate topics 
 ### Horizontal rules
@@ -151,16 +168,29 @@ Hello 2
 --> Two spaces at the end + ENTER
 
 ## Online and collaborative editors
+* Allows multiple users to edit Markdown documents
+* possible to commit changes by **pull request** 
 
 ### Markdown-based editors
+* Editors specificaly designed to edit Markdown files
+
+e.g.
+* Typora
+* Zettlr
+* Visual Studio Code
+
 ## Platform/Tool Specific: GitHub
+### Task lists
 
-Task lists
-## Mentioning users (@username)
+### Mentioning users (@username)
+- Send a notification to the user 
+### Automatic linking of issues/PRs
 
-## Automatic linking of issues/PRs
+* e.g. #number 
 
-## Emoji shortcodes
+### Emoji shortcodes
+e.g.
+:cherries: --> 🍒 
 
 
  
