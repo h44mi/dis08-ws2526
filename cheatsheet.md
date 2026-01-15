@@ -69,6 +69,12 @@ Alt text --> A phrase or sentence that describes the image for visually impaired
     [image tag]: link 
 
 ## Code and Technical Content 
+### Inline Code
+* To highlight a short piece of code, variable name or filename without breaking the sentence flow.
+
+`Word` --> The text is wrapped with `
+
+### Fenced Code Blocks
 
 ## Quotes and Notes 
 
