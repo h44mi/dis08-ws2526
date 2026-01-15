@@ -72,11 +72,34 @@ Alt text --> A phrase or sentence that describes the image for visually impaired
 ### Inline Code
 * To highlight a short piece of code, variable name or filename without breaking the sentence flow.
 
+e.g.  
 `Word` --> The text is wrapped with `
 
 ### Fenced Code Blocks
+* Is used to to display multi-line codes
+
+e.g 
+```
+Code
+```
+
+--> The code block is wrapped with ```
+
+### Syntax Highlighting 
+* Feature to distinguish parts of a code
+* Highlighting rules are language specified
+
+e.g. (python)
+```python
+def goodbye(name):
+  print (goodbye(Lisa))
+```
+
+--> Code is wrapped in ``` (Fenced Code Blocks)
+--> At the beginning programming language is added (Python, R, HTML, etc.)
 
 ## Quotes and Notes 
+
 
 
 
