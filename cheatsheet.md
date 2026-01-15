@@ -150,6 +150,18 @@ Hello 1
 Hello 2  
 --> Two spaces at the end + ENTER
 
+## Online and collaborative editors
+
+### Markdown-based editors
+## Platform/Tool Specific: GitHub
+
+Task lists
+## Mentioning users (@username)
+
+## Automatic linking of issues/PRs
+
+## Emoji shortcodes
+
 
  
 
