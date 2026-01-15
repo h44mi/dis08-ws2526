@@ -99,6 +99,29 @@ def goodbye(name):
 --> At the beginning programming language is added (Python, R, HTML, etc.)
 
 ## Quotes and Notes 
+* Call special attention to a quote from another source or design a pull quote for a magazine article
+### Blockquotes 
+* Sentence or paragraph that’s been specially formatted to draw attention to the reader
+
+e.g.  
+> Text
+* Blank lined must contain the caret character to ensure the entire blockquote is grouped
+
+### Nested Blockquotes 
+* Quotes within quotes (e.g. replies)
+
+e.g.  
+> Blockquote 1
+> > Blockquote 2
+
+### Blockquotes with Formatting 
+e.g. 
+> **Blockquotes** _with_ formatting 
+
+## Tables 
+### Checkboxes 
+
+ 
 
 
 
