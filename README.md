@@ -5,7 +5,7 @@ Welcome! This repository goes along with the **Data Modeling** course at TH Köl
 > [!NOTE]
 > Please insert links to your personal GitHub account and your group's repository below. You can remove this note afterwards.
 
-:octocat: [My GitHub profile]() | :busts_in_silhouette: [My group repository]()
+:octocat: [My GitHub profile](https://github.com/settings/profile) | :busts_in_silhouette: [My group repository]()
 
 You will use this repository to document your **lab assignments** throughout the semester. Please add your results and solutions to the corresponding directories linked in the table below.
 
